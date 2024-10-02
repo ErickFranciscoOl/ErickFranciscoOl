@@ -1,6 +1,6 @@
 # Erick Francisco de Oliveira
 
-## Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Banco de Dados na Faculdade Impacta. Tenho habilidades em bancos de dados usando MySQL, Oracle e SQL Server, linguagem de programação python, metodologia ágil e conhecimento em LGPD. Também possuo experiência com sistema Windows e com aplicativos de escritório como Word, Excel, Outlook e PowerPoint.
+## Graduado em Análise e Desenvolvimento de Sistemas, com experiência em ferramentas como Python, MySQL e Power BI. Tenho conhecimentos em modelagem de dados, metodologias ágeis e LGPD, além de familiaridade com o sistema Windows e Pacote Office (Word, Excel, Outlook e PowerPoint) avançado.
 
 ### Minhas Redes:
 
